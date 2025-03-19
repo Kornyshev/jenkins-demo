@@ -20,4 +20,14 @@ public class AppTest {
         Assertions.assertTrue(true);
     }
 
+    @Test
+    void fourthTest() {
+        Assertions.assertTrue(true);
+    }
+
+    @Test
+    void fifthTest() {
+        Assertions.assertTrue(true);
+    }
+
 }
